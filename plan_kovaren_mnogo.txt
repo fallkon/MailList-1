@@ -1,0 +1,13 @@
+1 setup (samo za teta)
+2 get maillist id(name)
+3 get database path
+4 save content format 
+    {
+        save to maillist 
+        save to subscribers
+        save to connectTable
+    }
+5 load from database
+6 load from database without giving database(dali pravilno 4ete samo za testa)
+7 liad from empty database(samo za test)
+8 tearDown ?????
